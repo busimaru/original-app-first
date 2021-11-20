@@ -27,9 +27,7 @@ https://original-app-first.herokuapp.com/
 
 ・DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
 
-
 ・工夫したポイント
-
 
 ・使用技術(開発環境)
 javascript,google API(Maps javascript API,Places API)

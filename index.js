@@ -151,7 +151,7 @@ function addResult(result) {
 
 function clearResults() {
   const results = document.getElementById("results");
-
+  data_csv = "店舗名, 電話番号, URL\n";
   while (results.childNodes[0]) {
     results.removeChild(results.childNodes[0]);
   }
